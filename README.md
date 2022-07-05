@@ -1,9 +1,4 @@
-PROJECT TITLE: PrimerProyecto JAVA
-PURPOSE OF PROJECT: Fundamentos de JAVA y primeros pasos
-VERSION or DATE: 04/07/2022
-HOW TO START THIS PROJECT: BlueJ
-AUTHORS: Brandon Ruiz Morales
-USER INSTRUCTIONS: Descargar blueJ compila y ejecuta :) Más detalles de cada cosa entre los comentarios de las clases .java
+
 
 # Java
 James Gosling diseñó el lenguaje con la sintaxis de estilo C/C++ y la filosofía **“escribe una vez, ejecuta en cualquier lado“.** Después de años, Sun Microsystems lanzó la primera implementación pública de Java en 1995. Se anunció que el navegador de Internet Netscape Navigator incorporaría la tecnología Java.
